@@ -103,9 +103,8 @@ Visual-Basic-Parser/
 │
 ├── vbparser.py
 ├── README.md
-└── screenshots/
-    ├── valid_input.png
-    └── invalid_input.png
+├── valid_input.png
+└── invalid_input.png
 ```
 
 ## Limitations
